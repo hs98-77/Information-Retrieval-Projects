@@ -1,0 +1,11 @@
+galago stats --index=/home/sadoldman/Desktop/Computer_Assignments/Indexed
+{
+  "postings.porter" : 
+    {
+      "partName" : "/home/sadoldman/Desktop/CA1-Resources/Indexed/postings.porter",
+      "statistics/collectionLength" : 76039811,
+      "statistics/highestDocumentCount" : 163490,
+      "statistics/highestFrequency" : 4702620,
+      "statistics/vocabCount" : 199147
+    }
+}

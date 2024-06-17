@@ -1,0 +1,5 @@
+{
+    "judgments" : "/home/sadoldman/Desktop/Computer_Assignments/Relevance/relevance_judgment.txt" ,
+    "runs" : ["1.txt","2.txt","3.txt","4.txt","5.txt","6.txt","7.txt"] ,
+    "metrics" : ["p20" , "map"]
+}

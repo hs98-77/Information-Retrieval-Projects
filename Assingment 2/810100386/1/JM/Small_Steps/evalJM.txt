@@ -1,0 +1,10 @@
+run-id            p20         map  
+1.txt                               0.311         0.227    
+2.txt                               0.309         0.228    
+3.txt                               0.310         0.229    
+4.txt                               0.311         0.229    
+5.txt                               0.312         0.229    
+6.txt                               0.311         0.229    
+7.txt                               0.310         0.228    
+
+Sig-Test: randomized, threshold set to 0.050000
