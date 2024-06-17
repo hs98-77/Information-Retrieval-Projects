@@ -1,0 +1,15 @@
+{
+    "fileType" : "trectext" ,
+    "inputPath" : "/home/sadoldman/Desktop/CA1-Resources/Corpus/corpus/Documents.trectext" ,
+    "indexPath" : "/home/sadoldman/Desktop/CA1-Resources/Indexed" ,
+    "stemmer" : ["porter"] ,
+    "tokenizer" : {
+        "fields" : ["TEXT" , "HEAD" , "DOCNO"] , 
+        "format" : {
+
+            "TEXT" : "string" , 
+            "HEAD" : "string" ,
+            "DOCNO" : "string"
+        }
+    }
+}
